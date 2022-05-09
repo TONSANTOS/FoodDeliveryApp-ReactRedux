@@ -14,7 +14,7 @@
 
 [ x ] Diminuir e remover pedidos no carrinho
 
-[ x ] Valor do item selecinado dinâmico ao aumentar quantidade/diminuir
+[ x ] Valor do item selecionado dinâmico ao aumentar quantidade/diminuir
 
 <br />
 
